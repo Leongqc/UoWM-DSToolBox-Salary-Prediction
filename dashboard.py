@@ -39,8 +39,8 @@ if option == "👥 About Us":
     
     # Add team member photos and names
     team_members = [
-        {"name": "Shubashenee", "photo": "shuba.jpeg"},
-        {"name": "Enoch", "photo": "enoch.jpg"},
+        {"name": "<edit_your_name>", "photo": "<your_jpg>"},
+        {"name": "<edit_your_name>", "photo": "<your_jpg>"},
     ]
     # Create columns to place images side-by-side
     cols = st.columns(len(team_members))
@@ -74,7 +74,7 @@ elif option == "📖 Introduction":
     """)
 
     # Add the image
-    st.image("salary.jpeg", caption="Discussing salary during the interview? Not always a comfortable topic!")
+    st.image("<your_jpg>", caption="Discussing salary during the interview? Not always a comfortable topic!")
 
     # Add the description
     st.write("""
