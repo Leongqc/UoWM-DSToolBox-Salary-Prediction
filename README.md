@@ -1,5 +1,7 @@
 # UoWM-DSToolBox-Salary-Prediction
 
+Using Random Forest Regression Model and with interactive EDA
+
 Ori DataSet: https://www.kaggle.com/datasets/bred54/malaysia-salary-data?resource=download
 
 My Edited Dataset: "cleaned_data.csv"
