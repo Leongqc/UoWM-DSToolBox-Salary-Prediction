@@ -12,3 +12,4 @@ Streamlit source code: dashboard.py
 
 1. pip install streamlit in your pc
 2. streamlit run "/patch/to_your_file"
+3. Remember to download my "cleaned_data.csv" before run
