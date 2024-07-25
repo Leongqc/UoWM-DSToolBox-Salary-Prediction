@@ -1,0 +1,999 @@
+Age,Gender,Education Level,Job Title,Industry,Years of Experience,Salary,Category
+32.0,male,bachelor's,software engineer,software engineering,5.0,5111.1,m40
+28.0,female,master's,data analyst,computing,3.0,3691.35,b40
+45.0,male,phd,senior manager,business,15.0,8518.5,m40
+36.0,female,bachelor's,sales associate,business,7.0,3407.4,b40
+52.0,male,master's,director,mass media,20.0,11358.0,t20
+29.0,male,bachelor's,marketing analyst,business,2.0,3123.4500000000003,b40
+42.0,female,master's,product manager,business,12.0,6814.8,m40
+31.0,male,bachelor's,sales manager,business,4.0,4543.2,b40
+26.0,female,bachelor's,marketing coordinator,business,1.0,2555.55,b40
+38.0,male,phd,senior scientist,scientist,10.0,6246.900000000001,m40
+29.0,male,master's,software developer,software engineering,3.0,4259.25,b40
+48.0,female,bachelor's,hr manager,business,18.0,7950.6,m40
+35.0,male,bachelor's,financial analyst,computing,6.0,3691.35,b40
+40.0,female,master's,project manager,business,14.0,7382.7,m40
+27.0,male,bachelor's,customer service rep,business,2.0,2271.6,b40
+44.0,male,bachelor's,operations manager,business,16.0,7098.75,m40
+33.0,female,master's,marketing manager,business,7.0,5111.1,m40
+39.0,male,phd,senior engineer,engineering,12.0,6530.85,m40
+25.0,female,bachelor's,data entry clerk,computing,0.0,1987.65,b40
+51.0,male,bachelor's,sales director,business,22.0,10222.2,m40
+34.0,female,master's,business analyst,business,5.0,4543.2,b40
+47.0,male,master's,vp of operations,other,19.0,10790.1,m40
+30.0,male,bachelor's,it support,computing,2.0,2839.5,b40
+36.0,female,bachelor's,recruiter,human resource,9.0,3407.4,b40
+41.0,male,master's,financial manager,business,13.0,7950.6,m40
+28.0,female,bachelor's,social media specialist,business,3.0,2555.55,b40
+37.0,female,master's,software manager,business,11.0,6246.900000000001,m40
+24.0,male,bachelor's,junior developer,software engineering,1.0,2271.6,b40
+43.0,female,phd,senior consultant,other,15.0,7950.6,m40
+33.0,male,master's,product designer,business,6.0,5111.1,m40
+50.0,male,bachelor's,ceo,other,25.0,14197.5,t20
+31.0,female,bachelor's,accountant,finance,4.0,3123.4500000000003,b40
+29.0,male,master's,data scientist,computing,3.0,4259.25,b40
+39.0,female,bachelor's,marketing specialist,business,10.0,3691.35,b40
+46.0,male,phd,senior manager,business,20.0,9654.3,m40
+27.0,male,bachelor's,technical writer,computing,2.0,2555.55,b40
+35.0,female,bachelor's,hr generalist,human resource,7.0,3407.4,b40
+42.0,male,master's,project engineer,engineering,14.0,6530.85,m40
+26.0,female,bachelor's,customer success rep,business,1.0,2271.6,b40
+49.0,male,bachelor's,sales executive,business,21.0,9086.4,m40
+34.0,female,master's,ux designer,computing,5.0,4543.2,b40
+48.0,male,master's,operations director,mass media,18.0,10790.1,m40
+30.0,male,bachelor's,network engineer,engineering,3.0,3407.4,b40
+36.0,female,bachelor's,administrative assistant,business,8.0,2555.55,b40
+41.0,male,master's,strategy consultant,other,13.0,7382.7,m40
+28.0,female,bachelor's,copywriter,computing,2.0,2271.6,b40
+32.0,male,bachelor's,account manager,business,5.0,4259.25,b40
+45.0,female,master's,director of marketing,business,16.0,10222.2,m40
+38.0,male,phd,senior scientist,scientist,11.0,6814.8,m40
+25.0,male,bachelor's,help desk analyst,computing,0.0,1987.65,b40
+51.0,female,bachelor's,customer service manager,business,22.0,7382.7,m40
+33.0,male,master's,business intelligence analyst,business,7.0,4827.15,b40
+40.0,female,bachelor's,event coordinator,mass media,12.0,3407.4,b40
+47.0,male,master's,vp of finance,finance,19.0,11358.0,t20
+29.0,female,bachelor's,graphic designer,computing,3.0,2839.5,b40
+36.0,male,bachelor's,sales manager,business,9.0,5395.05,m40
+27.0,female,master's,ux researcher,scientist,2.0,3691.35,b40
+43.0,male,phd,senior engineer,engineering,17.0,7950.6,m40
+30.0,female,bachelor's,social media manager,business,4.0,3123.4500000000003,b40
+35.0,male,master's,product manager,business,7.0,5962.95,m40
+51.0,female,master's,director of operations,mass media,23.0,9654.3,m40
+29.0,male,bachelor's,marketing analyst,business,3.0,2839.5,b40
+40.0,female,bachelor's,hr manager,business,12.0,4543.2,b40
+47.0,male,phd,senior data scientist,computing,21.0,10222.2,m40
+26.0,male,bachelor's,junior accountant,finance,1.0,1987.65,b40
+38.0,female,master's,digital marketing manager,business,10.0,5111.1,m40
+46.0,male,bachelor's,it manager,business,19.0,6814.8,m40
+31.0,female,bachelor's,customer service representative,business,5.0,2555.55,b40
+34.0,male,master's,business development manager,business,8.0,5111.1,m40
+49.0,female,master's,senior financial analyst,computing,18.0,8518.5,m40
+33.0,male,bachelor's,web developer,software engineering,6.0,3691.35,b40
+39.0,female,bachelor's,recruiter,human resource,11.0,3975.3,b40
+45.0,male,phd,research director,mass media,16.0,10790.1,m40
+28.0,male,bachelor's,technical support specialist,computing,2.0,2271.6,b40
+42.0,female,master's,creative director,mass media,14.0,6814.8,m40
+37.0,male,bachelor's,project manager,business,10.0,5395.05,m40
+50.0,female,bachelor's,operations manager,business,22.0,9086.4,m40
+32.0,male,master's,senior software engineer,software engineering,6.0,5679.0,m40
+48.0,female,master's,human resources director,human resource,20.0,10222.2,m40
+30.0,female,bachelor's,content marketing manager,business,3.0,3123.4500000000003,b40
+36.0,male,bachelor's,technical recruiter,human resource,8.0,3975.3,b40
+41.0,female,master's,data analyst,computing,13.0,4543.2,b40
+25.0,male,bachelor's,sales representative,business,0.0,1703.7,b40
+52.0,male,phd,chief technology officer,computing,24.0,14197.5,t20
+29.0,female,bachelor's,junior designer,computing,2.0,2271.6,b40
+34.0,female,master's,financial advisor,finance,10.0,5395.05,m40
+27.0,male,bachelor's,junior account manager,business,2.0,2555.55,b40
+40.0,female,bachelor's,hr generalist,human resource,15.0,4543.2,b40
+46.0,male,master's,senior project manager,business,21.0,7666.650000000001,m40
+31.0,female,bachelor's,marketing coordinator,business,6.0,3123.4500000000003,b40
+36.0,male,phd,principal scientist,scientist,11.0,6814.8,m40
+29.0,female,bachelor's,sales associate,business,3.0,2271.6,b40
+43.0,male,bachelor's,supply chain manager,business,18.0,5962.95,m40
+52.0,female,master's,senior marketing manager,business,25.0,9654.3,m40
+33.0,male,bachelor's,business analyst,business,7.0,4259.25,b40
+39.0,female,bachelor's,training specialist,business,12.0,3691.35,b40
+47.0,male,phd,research scientist,scientist,22.0,9086.4,m40
+26.0,male,bachelor's,junior software developer,software engineering,1.0,1987.65,b40
+38.0,female,master's,public relations manager,business,10.0,5111.1,m40
+45.0,male,bachelor's,operations analyst,computing,20.0,6246.900000000001,m40
+31.0,female,bachelor's,event coordinator,mass media,5.0,2555.55,b40
+35.0,male,master's,product marketing manager,business,8.0,5395.05,m40
+49.0,female,master's,senior hr manager,business,19.0,8518.5,m40
+33.0,male,bachelor's,junior web developer,software engineering,5.0,2839.5,b40
+39.0,female,master's,senior project coordinator,business,13.0,4543.2,b40
+44.0,male,phd,chief data officer,computing,16.0,12493.800000000001,t20
+30.0,female,bachelor's,digital content producer,mass media,3.0,2839.5,b40
+36.0,male,bachelor's,it support specialist,computing,7.0,3407.4,b40
+41.0,female,master's,senior marketing analyst,business,14.0,5679.0,m40
+28.0,male,bachelor's,customer success manager,business,2.0,2271.6,b40
+42.0,female,master's,senior graphic designer,computing,15.0,6246.900000000001,m40
+37.0,male,bachelor's,software project manager,business,9.0,5395.05,m40
+50.0,female,bachelor's,supply chain analyst,computing,22.0,7382.7,m40
+32.0,male,master's,senior business analyst,business,6.0,5111.1,m40
+23.0,female,bachelor's,junior marketing analyst,business,0.5,1987.65,b40
+31.0,male,master's,senior financial analyst,computing,6.0,5395.05,m40
+40.0,female,bachelor's,office manager,business,15.0,3691.35,b40
+48.0,male,phd,principal engineer,engineering,20.0,9654.3,m40
+29.0,female,bachelor's,junior hr generalist,human resource,3.0,2555.55,b40
+35.0,male,master's,senior product manager,business,10.0,6814.8,m40
+42.0,female,bachelor's,sales manager,business,17.0,5679.0,m40
+53.0,male,master's,director of marketing,business,25.0,10222.2,m40
+33.0,female,bachelor's,junior operations analyst,computing,5.0,2839.5,b40
+38.0,male,bachelor's,customer service manager,business,11.0,4543.2,b40
+44.0,female,phd,senior scientist,scientist,16.0,7950.6,m40
+26.0,male,bachelor's,junior accountant,finance,2.0,2271.6,b40
+37.0,female,master's,senior hr generalist,human resource,9.0,5395.05,m40
+45.0,male,bachelor's,sales operations manager,business,18.0,6246.900000000001,m40
+32.0,female,bachelor's,marketing coordinator,business,4.0,2839.5,b40
+34.0,male,master's,senior software developer,software engineering,8.0,5962.95,m40
+50.0,female,master's,director of operations,mass media,21.0,9086.4,m40
+29.0,male,bachelor's,junior web designer,computing,3.0,2555.55,b40
+40.0,female,master's,senior training specialist,business,12.0,5679.0,m40
+47.0,male,phd,senior research scientist,scientist,22.0,9086.4,m40
+27.0,male,bachelor's,junior sales representative,business,1.0,1987.65,b40
+39.0,female,bachelor's,administrative assistant,business,10.0,3123.4500000000003,b40
+46.0,male,master's,senior project manager,business,19.0,7950.6,m40
+30.0,female,bachelor's,junior marketing manager,business,4.0,2839.5,b40
+36.0,male,bachelor's,junior data analyst,computing,7.0,3407.4,b40
+43.0,female,master's,senior product marketing manager,business,14.0,6814.8,m40
+28.0,male,bachelor's,junior business analyst,business,2.0,2271.6,b40
+41.0,female,master's,senior marketing manager,business,13.0,6246.900000000001,m40
+33.0,male,bachelor's,junior software developer,software engineering,5.0,2839.5,b40
+47.0,male,bachelor's,senior sales manager,business,20.0,7666.650000000001,m40
+25.0,female,master's,junior marketing specialist,business,1.5,2271.6,b40
+34.0,male,bachelor's,senior business analyst,business,8.0,5111.1,m40
+42.0,female,phd,senior data scientist,computing,16.0,8518.5,m40
+31.0,male,bachelor's,junior project manager,business,4.0,3407.4,b40
+38.0,female,bachelor's,senior accountant,finance,10.0,4543.2,b40
+45.0,male,master's,director of sales,business,19.0,9938.25,m40
+29.0,female,bachelor's,junior recruiter,human resource,3.0,2555.55,b40
+36.0,male,master's,senior business development manager,business,11.0,6814.8,m40
+43.0,female,phd,senior product designer,business,18.0,7950.6,m40
+26.0,male,bachelor's,junior customer support specialist,business,2.0,1987.65,b40
+37.0,female,master's,senior marketing analyst,business,9.0,5395.05,m40
+44.0,male,bachelor's,senior it support specialist,computing,14.0,6246.900000000001,m40
+32.0,female,bachelor's,junior financial analyst,computing,5.0,2839.5,b40
+33.0,male,master's,senior operations manager,business,7.0,6530.85,m40
+51.0,female,phd,director of human resources,human resource,23.0,10506.15,m40
+28.0,male,bachelor's,junior software engineer,software engineering,2.0,2271.6,b40
+39.0,female,bachelor's,senior sales representative,business,12.0,5111.1,m40
+48.0,male,master's,director of product management,business,21.0,9938.25,m40
+30.0,female,bachelor's,junior copywriter,computing,3.0,2555.55,b40
+35.0,male,bachelor's,senior marketing coordinator,business,7.0,4543.2,b40
+41.0,female,master's,senior human resources manager,business,13.0,6814.8,m40
+27.0,male,bachelor's,junior business development associate,business,1.5,1987.65,b40
+40.0,female,bachelor's,senior account manager,business,14.0,6246.900000000001,m40
+46.0,male,phd,senior researcher,scientist,18.0,8518.5,m40
+31.0,female,bachelor's,junior hr coordinator,human resource,4.0,2839.5,b40
+34.0,male,master's,senior software engineer,software engineering,9.0,5962.95,m40
+50.0,female,master's,director of finance,mass media,20.0,10222.2,m40
+29.0,male,bachelor's,junior marketing coordinator,business,2.0,2271.6,b40
+43.0,male,bachelor's,senior project manager,business,16.0,7950.6,m40
+26.0,female,master's,junior data scientist,computing,1.5,2555.55,b40
+35.0,male,bachelor's,senior operations analyst,computing,7.0,4827.15,b40
+42.0,female,phd,senior marketing manager,business,18.0,7950.6,m40
+31.0,male,bachelor's,junior accountant,finance,4.0,2839.5,b40
+38.0,female,bachelor's,senior human resources coordinator,human resource,10.0,4543.2,b40
+46.0,male,master's,director of operations,mass media,20.0,9654.3,m40
+29.0,female,bachelor's,junior sales representative,business,2.0,2271.6,b40
+37.0,male,master's,senior business analyst,business,9.0,5962.95,m40
+44.0,female,phd,senior ux designer,computing,15.0,8234.55,m40
+27.0,male,bachelor's,junior product manager,business,2.0,2271.6,b40
+36.0,female,bachelor's,senior marketing specialist,business,8.0,4827.15,b40
+43.0,male,bachelor's,senior it project manager,business,14.0,7382.7,m40
+33.0,female,master's,senior financial analyst,computing,6.0,5395.05,m40
+34.0,male,bachelor's,senior quality assurance analyst,computing,9.0,5679.0,m40
+50.0,female,phd,director of sales and marketing,business,22.0,10222.2,m40
+28.0,male,bachelor's,junior operations analyst,computing,1.5,1987.65,b40
+39.0,female,bachelor's,senior account executive,finance,12.0,5395.05,m40
+47.0,male,master's,director of business development,business,19.0,9654.3,m40
+30.0,female,bachelor's,junior social media manager,business,3.0,2555.55,b40
+34.0,male,bachelor's,senior product manager,business,7.0,5395.05,m40
+40.0,female,master's,senior human resources specialist,human resource,13.0,6814.8,m40
+28.0,male,bachelor's,junior business analyst,business,2.0,2271.6,b40
+41.0,female,bachelor's,senior marketing coordinator,business,11.0,5111.1,m40
+45.0,male,phd,senior data analyst,computing,17.0,8802.45,m40
+32.0,female,bachelor's,junior account manager,business,5.0,3123.4500000000003,b40
+35.0,male,master's,senior software developer,software engineering,9.0,6246.900000000001,m40
+49.0,female,master's,director of human capital,mass media,21.0,10222.2,m40
+30.0,male,bachelor's,junior advertising coordinator,other,3.0,2555.55,b40
+44.0,male,bachelor's,senior sales manager,business,16.0,7382.7,m40
+27.0,female,master's,junior ux designer,computing,1.5,2555.55,b40
+36.0,male,bachelor's,senior accountant,finance,7.0,5111.1,m40
+41.0,female,phd,senior marketing director,business,17.0,9086.4,m40
+31.0,male,bachelor's,junior hr generalist,human resource,4.0,2839.5,b40
+39.0,female,bachelor's,senior operations manager,business,10.0,6814.8,m40
+47.0,male,master's,director of finance,mass media,20.0,9654.3,m40
+30.0,female,bachelor's,junior marketing coordinator,business,2.0,2271.6,b40
+38.0,male,master's,senior it consultant,computing,9.0,6246.900000000001,m40
+45.0,female,phd,senior product designer,business,15.0,8518.5,m40
+28.0,male,bachelor's,junior business development associate,business,2.0,2271.6,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+44.0,male,bachelor's,senior software engineer,software engineering,14.0,7382.7,m40
+34.0,female,master's,senior financial advisor,finance,6.0,5679.0,m40
+35.0,male,bachelor's,senior project coordinator,business,9.0,5395.05,m40
+50.0,female,phd,director of operations,mass media,22.0,10222.2,m40
+29.0,male,bachelor's,junior business operations analyst,business,1.5,1987.65,b40
+40.0,female,bachelor's,senior sales representative,business,12.0,5679.0,m40
+48.0,male,master's,director of marketing,business,19.0,9654.3,m40
+31.0,female,bachelor's,junior social media specialist,business,3.0,2555.55,b40
+33.0,male,bachelor's,senior product development manager,business,7.0,5679.0,m40
+42.0,female,master's,senior human resources manager,business,13.0,7950.6,m40
+28.0,male,bachelor's,junior financial analyst,computing,2.0,2271.6,b40
+40.0,female,bachelor's,senior marketing manager,business,11.0,5962.95,m40
+46.0,male,phd,senior data scientist,computing,18.0,9086.4,m40
+33.0,female,bachelor's,junior operations manager,business,5.0,3975.3,b40
+37.0,male,master's,senior software architect,software engineering,9.0,6814.8,m40
+51.0,female,master's,director of human resources,human resource,21.0,10790.1,m40
+30.0,male,bachelor's,junior marketing specialist,business,3.0,2555.55,b40
+43.0,male,bachelor's,senior project manager,business,15.0,6814.8,m40
+27.0,female,master's,junior research scientist,scientist,1.5,2839.5,b40
+35.0,male,bachelor's,senior operations analyst,computing,8.0,4827.15,b40
+42.0,female,phd,senior marketing manager,business,13.0,7950.6,m40
+32.0,male,bachelor's,junior sales representative,business,3.0,2555.55,b40
+37.0,female,bachelor's,senior financial analyst,computing,9.0,5679.0,m40
+45.0,male,master's,senior software developer,software engineering,16.0,7950.6,m40
+33.0,female,bachelor's,junior operations analyst,computing,5.0,3975.3,b40
+39.0,male,bachelor's,senior marketing specialist,business,10.0,6814.8,m40
+44.0,female,phd,senior hr manager,business,18.0,9086.4,m40
+29.0,male,bachelor's,junior business analyst,business,1.5,2271.6,b40
+38.0,female,bachelor's,senior product manager,business,10.0,6814.8,m40
+46.0,male,phd,senior data analyst,computing,19.0,8518.5,m40
+34.0,female,bachelor's,junior marketing analyst,business,6.0,3975.3,b40
+36.0,male,bachelor's,senior operations manager,business,8.0,5395.05,m40
+49.0,female,master's,director of marketing,business,21.0,10222.2,m40
+31.0,male,bachelor's,junior financial analyst,computing,3.0,2839.5,b40
+41.0,female,bachelor's,senior project coordinator,business,11.0,5395.05,m40
+47.0,male,master's,director of operations,mass media,20.0,9654.3,m40
+30.0,female,bachelor's,junior marketing coordinator,business,2.0,2271.6,b40
+38.0,male,master's,senior it consultant,computing,9.0,6246.900000000001,m40
+45.0,female,phd,senior product designer,business,15.0,8518.5,m40
+28.0,male,bachelor's,junior business development associate,business,2.0,2271.6,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+44.0,male,bachelor's,senior software engineer,software engineering,14.0,7382.7,m40
+34.0,female,master's,senior financial advisor,finance,6.0,5679.0,m40
+35.0,male,bachelor's,senior project coordinator,business,9.0,5395.05,m40
+50.0,female,phd,director of operations,mass media,22.0,10222.2,m40
+29.0,male,bachelor's,junior business operations analyst,business,1.5,19.8765,b40
+37.0,female,bachelor's,senior financial manager,business,10.0,6814.8,m40
+46.0,male,phd,senior data scientist,computing,18.0,9086.4,m40
+31.0,female,bachelor's,junior marketing coordinator,business,3.0,2839.5,b40
+42.0,male,bachelor's,senior operations manager,business,12.0,6246.900000000001,m40
+29.0,female,bachelor's,junior sales representative,business,1.5,2271.6,b40
+36.0,male,bachelor's,senior marketing specialist,business,8.0,5395.05,m40
+44.0,female,master's,senior hr specialist,human resource,15.0,7950.6,m40
+33.0,male,bachelor's,junior operations manager,business,4.0,3407.4,b40
+39.0,female,bachelor's,senior marketing coordinator,business,9.0,6246.900000000001,m40
+45.0,male,phd,senior data engineer,engineering,16.0,8518.5,m40
+32.0,female,bachelor's,junior marketing manager,business,4.0,3407.4,b40
+37.0,male,bachelor's,senior financial analyst,computing,8.0,5111.1,m40
+47.0,female,master's,director of marketing,business,20.0,10222.2,m40
+30.0,male,bachelor's,junior business analyst,business,2.0,2271.6,b40
+38.0,female,bachelor's,senior project manager,business,9.0,6814.8,m40
+46.0,male,phd,senior data analyst,computing,17.0,9086.4,m40
+34.0,female,bachelor's,junior financial analyst,computing,5.0,3975.3,b40
+36.0,male,bachelor's,senior product manager,business,8.0,5395.05,m40
+49.0,female,master's,director of operations,mass media,21.0,10222.2,m40
+31.0,male,bachelor's,junior operations analyst,computing,3.0,2839.5,b40
+41.0,female,bachelor's,senior project coordinator,business,11.0,5395.05,m40
+47.0,male,master's,director of marketing,business,19.0,9654.3,m40
+29.0,female,bachelor's,junior business development associate,business,1.5,1987.65,b40
+35.0,male,bachelor's,senior financial manager,business,9.0,5679.0,m40
+44.0,female,phd,senior product designer,business,15.0,8518.5,m40
+33.0,male,bachelor's,junior business analyst,business,4.0,3407.4,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+44.0,male,bachelor's,senior software engineer,software engineering,13.0,7382.7,m40
+32.0,male,bachelor's,junior product manager,business,4.0,3691.35,b40
+38.0,female,bachelor's,senior business analyst,business,10.0,6246.900000000001,m40
+49.0,male,phd,director of operations,mass media,21.0,10222.2,m40
+29.0,female,bachelor's,junior marketing specialist,business,2.0,2271.6,b40
+35.0,male,bachelor's,senior business development manager,business,7.0,5111.1,m40
+45.0,female,master's,senior hr manager,business,14.0,7950.6,m40
+33.0,male,bachelor's,junior financial analyst,computing,4.0,3407.4,b40
+40.0,female,bachelor's,senior marketing manager,business,12.0,7382.7,m40
+44.0,male,phd,senior data scientist,computing,16.0,9086.4,m40
+30.0,female,bachelor's,junior operations coordinator,business,2.0,2271.6,b40
+37.0,male,bachelor's,senior marketing analyst,business,9.0,5679.0,m40
+48.0,female,master's,director of hr,human resource,20.0,10222.2,m40
+31.0,male,bachelor's,junior project manager,business,3.0,3123.4500000000003,b40
+38.0,female,bachelor's,senior operations coordinator,business,9.0,6814.8,m40
+45.0,male,phd,senior data engineer,engineering,16.0,8518.5,m40
+33.0,female,bachelor's,junior marketing manager,business,5.0,3975.3,b40
+36.0,male,bachelor's,senior business analyst,business,8.0,5395.05,m40
+49.0,female,master's,director of marketing,business,21.0,10222.2,m40
+31.0,male,bachelor's,junior operations analyst,computing,3.0,2839.5,b40
+42.0,female,bachelor's,senior project manager,business,12.0,6814.8,m40
+47.0,male,master's,director of marketing,business,19.0,9654.3,m40
+29.0,female,bachelor's,junior business development associate,business,1.5,1987.65,b40
+35.0,male,bachelor's,senior financial manager,business,9.0,5679.0,m40
+44.0,female,phd,senior product designer,business,15.0,8518.5,m40
+33.0,male,bachelor's,junior business analyst,business,4.0,3407.4,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+44.0,male,bachelor's,senior software engineer,software engineering,13.0,7382.7,m40
+34.0,female,master's,senior financial advisor,finance,6.0,4543.2,b40
+36.0,male,bachelor's,senior marketing specialist,business,8.0,5395.05,m40
+30.0,female,bachelor's,junior hr coordinator,human resource,2.0,2271.6,b40
+37.0,male,bachelor's,senior business development manager,business,10.0,6814.8,m40
+45.0,female,master's,senior marketing manager,business,16.0,9086.4,m40
+32.0,male,bachelor's,junior financial advisor,finance,4.0,3691.35,b40
+39.0,female,bachelor's,senior project manager,business,12.0,7382.7,m40
+47.0,male,phd,director of engineering,mass media,20.0,10222.2,m40
+29.0,female,bachelor's,junior marketing analyst,business,2.0,2271.6,b40
+36.0,male,bachelor's,senior operations manager,business,9.0,5679.0,m40
+43.0,female,phd,senior data scientist,computing,15.0,8518.5,m40
+32.0,male,bachelor's,junior marketing coordinator,business,3.0,3123.4500000000003,b40
+38.0,female,bachelor's,senior business analyst,business,10.0,6246.900000000001,m40
+48.0,male,master's,director of marketing,business,21.0,10222.2,m40
+31.0,female,bachelor's,junior business development associate,business,3.0,2839.5,b40
+40.0,male,bachelor's,senior financial analyst,computing,12.0,7382.7,m40
+45.0,female,phd,senior ux designer,computing,16.0,9086.4,m40
+33.0,male,bachelor's,junior product manager,business,4.0,3407.4,b40
+36.0,female,bachelor's,senior marketing manager,business,8.0,5395.05,m40
+47.0,male,master's,director of operations,mass media,19.0,9654.3,m40
+29.0,female,bachelor's,junior project manager,business,2.0,2271.6,b40
+34.0,male,bachelor's,senior operations coordinator,business,7.0,5111.1,m40
+44.0,female,phd,senior business analyst,business,15.0,8518.5,m40
+33.0,male,bachelor's,junior marketing specialist,business,5.0,3975.3,b40
+35.0,female,bachelor's,senior financial manager,business,8.0,5111.1,m40
+43.0,male,master's,director of marketing,business,18.0,9654.3,m40
+31.0,female,bachelor's,junior financial analyst,computing,3.0,2839.5,b40
+41.0,male,bachelor's,senior product manager,business,14.0,8518.5,m40
+44.0,female,phd,senior data engineer,engineering,16.0,9086.4,m40
+33.0,male,bachelor's,junior business analyst,business,4.0,3407.4,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+45.0,male,master's,director of engineering,mass media,19.0,10222.2,m40
+28.0,female,bachelor's,junior operations manager,business,1.0,1987.65,b40
+36.0,male,bachelor's,senior business development manager,business,8.0,6246.900000000001,m40
+44.0,female,phd,senior data scientist,computing,16.0,9086.4,m40
+31.0,male,bachelor's,junior marketing coordinator,business,3.0,3123.4500000000003,b40
+38.0,female,bachelor's,senior business analyst,business,10.0,6246.900000000001,m40
+48.0,male,master's,director of marketing,business,21.0,10222.2,m40
+31.0,female,bachelor's,junior business development associate,business,3.0,2839.5,b40
+40.0,male,bachelor's,senior financial analyst,computing,12.0,7382.7,m40
+45.0,female,phd,senior ux designer,computing,16.0,9086.4,m40
+33.0,male,bachelor's,junior product manager,business,4.0,3407.4,b40
+36.0,female,bachelor's,senior marketing manager,business,8.0,5395.05,m40
+47.0,male,master's,director of operations,mass media,19.0,9654.3,m40
+29.0,female,bachelor's,junior project manager,business,2.0,2271.6,b40
+34.0,male,bachelor's,senior operations coordinator,business,7.0,5111.1,m40
+44.0,female,phd,senior business analyst,business,15.0,8518.5,m40
+33.0,male,bachelor's,junior marketing specialist,business,5.0,3975.3,b40
+35.0,female,bachelor's,senior financial manager,business,8.0,5111.1,m40
+43.0,male,master's,director of marketing,business,18.0,9654.3,m40
+31.0,female,bachelor's,junior financial analyst,computing,3.0,2839.5,b40
+41.0,male,bachelor's,senior product manager,business,14.0,8518.5,m40
+44.0,female,phd,senior data engineer,engineering,16.0,9086.4,m40
+33.0,male,bachelor's,junior business analyst,business,4.0,3407.4,b40
+35.0,female,bachelor's,senior marketing analyst,business,8.0,4827.15,b40
+43.0,male,master's,director of operations,mass media,19.0,9654.3,m40
+29.0,female,bachelor's,junior project manager,business,2.0,2271.6,b40
+34.0,male,bachelor's,senior operations coordinator,business,7.0,5111.1,m40
+44.0,female,phd,senior business analyst,business,15.0,8518.5,m40
+31.0,male,master's,data scientist,computing,6.0,9086.4,m40
+28.0,female,bachelor's,software engineer,software engineering,3.0,7098.75,m40
+26.0,male,master's,product manager,business,2.0,6814.8,m40
+27.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,male,phd,data scientist,computing,5.0,10222.2,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+32.0,male,bachelor's,product manager,business,7.0,9654.3,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+28.0,male,bachelor's,software engineer,software engineering,3.0,7098.75,m40
+26.0,female,master's,product manager,business,2.0,6814.8,m40
+27.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,5.0,10222.2,m40
+29.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+32.0,male,bachelor's,product manager,business,7.0,9654.3,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+28.0,male,bachelor's,software engineer,software engineering,3.0,7098.75,m40
+26.0,female,master's,product manager,business,2.0,6814.8,m40
+27.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,5.0,10222.2,m40
+29.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+32.0,male,bachelor's,product manager,business,7.0,9654.3,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+28.0,male,bachelor's,software engineer,software engineering,3.0,7098.75,m40
+26.0,female,master's,product manager,business,2.0,6814.8,m40
+27.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,5.0,10222.2,m40
+29.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+32.0,male,bachelor's,product manager,business,7.0,9654.3,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+28.0,male,bachelor's,software engineer,software engineering,3.0,7098.75,m40
+26.0,female,master's,product manager,business,2.0,6814.8,m40
+27.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,5.0,10222.2,m40
+29.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+32.0,male,bachelor's,product manager,business,7.0,9654.3,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+25.0,female,master's,data analyst,computing,1.0,5679.0,m40
+33.0,male,phd,data scientist,computing,8.0,10790.1,m40
+31.0,female,bachelor's,software engineer,software engineering,6.0,8802.45,m40
+28.0,male,master's,product manager,business,3.0,7382.7,m40
+30.0,female,bachelor's,data analyst,computing,5.0,8234.55,m40
+27.0,male,phd,data scientist,computing,2.0,6530.85,m40
+29.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,bachelor's,product manager,business,9.0,10506.15,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+31.0,female,master's,data scientist,computing,9.0,11074.050000000001,t20
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+23.0,male,bachelor's,data analyst,computing,1.0,5395.05,m40
+32.0,female,phd,data scientist,computing,10.0,10960.47,m40
+29.0,male,bachelor's,software engineer,software engineering,6.0,9938.25,m40
+30.0,female,bachelor's,product manager,business,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+31.0,female,master's,data scientist,computing,6.0,10222.2,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,male,master's,product manager,business,11.0,11244.42,t20
+26.0,female,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,male,phd,data scientist,computing,7.0,10506.15,m40
+27.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,master's,product manager,business,12.0,11130.84,t20
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+30.0,male,bachelor's,data analyst,computing,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+31.0,female,phd,data scientist,computing,9.0,11074.050000000001,t20
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,male,bachelor's,data analyst,computing,2.0,7098.75,m40
+28.0,female,master's,data scientist,computing,6.0,9938.25,m40
+30.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+24.0,male,bachelor's,data analyst,computing,1.0,5395.05,m40
+31.0,male,master's,data scientist,computing,9.0,11074.050000000001,t20
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+23.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+32.0,female,phd,data scientist,computing,10.0,10960.47,m40
+29.0,male,bachelor's,software engineer,software engineering,6.0,9654.3,m40
+30.0,female,bachelor's,product manager,business,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7666.650000000001,m40
+31.0,female,master's,data scientist,computing,6.0,10222.2,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6530.85,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,male,master's,product manager,business,11.0,11244.42,t20
+26.0,female,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,male,phd,data scientist,computing,7.0,10506.15,m40
+27.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,master's,product manager,business,12.0,11130.84,t20
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+30.0,male,bachelor's,data analyst,computing,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+31.0,female,phd,data scientist,computing,9.0,11074.050000000001,t20
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+23.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,female,master's,data scientist,computing,4.0,8518.5,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+24.0,female,bachelor's,product manager,business,3.0,7098.75,m40
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+31.0,male,master's,data scientist,computing,7.0,10222.2,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,female,master's,product manager,business,10.0,11074.050000000001,t20
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,female,phd,data scientist,computing,6.0,9654.3,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,11.0,11130.84,t20
+23.0,male,bachelor's,data analyst,computing,1.0,5224.68,m40
+32.0,female,phd,data scientist,computing,9.0,11074.050000000001,t20
+29.0,male,bachelor's,software engineer,software engineering,6.0,9654.3,m40
+30.0,female,bachelor's,product manager,business,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7666.650000000001,m40
+31.0,female,master's,data scientist,computing,6.0,10222.2,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,9370.35,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5395.05,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6530.85,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+33.0,male,master's,product manager,business,11.0,11244.42,t20
+26.0,female,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,male,phd,data scientist,computing,7.0,10506.15,m40
+27.0,female,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,male,master's,product manager,business,12.0,11130.84,t20
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+30.0,male,bachelor's,data analyst,computing,5.0,9086.4,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+31.0,female,phd,data scientist,computing,9.0,11074.050000000001,t20
+28.0,male,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+25.0,male,bachelor's,data analyst,computing,3.0,7666.650000000001,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+30.0,male,bachelor's,data analyst,computing,5.0,9086.4,m40
+24.0,male,bachelor's,data analyst,computing,1.0,5395.05,m40
+33.0,female,master's,product manager,business,11.0,11130.84,t20
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,female,bachelor's,data analyst,computing,3.0,7382.7,m40
+30.0,male,phd,data scientist,computing,7.0,10506.15,m40
+27.0,female,bachelor's,product manager,business,4.0,8518.5,m40
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+33.0,male,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6530.85,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,9370.35,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+31.0,female,master's,data scientist,computing,6.0,10222.2,m40
+30.0,male,bachelor's,data analyst,computing,5.0,9086.4,m40
+24.0,male,bachelor's,data analyst,computing,1.0,5224.68,m40
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+25.0,male,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+34.0,female,master's,product manager,business,12.0,11130.84,t20
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+31.0,male,bachelor's,data analyst,computing,9.0,11074.050000000001,t20
+28.0,female,bachelor's,software engineer,software engineering,5.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,7382.7,m40
+29.0,female,master's,data scientist,computing,6.0,10222.2,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10790.1,m40
+33.0,female,master's,product manager,business,11.0,11244.42,t20
+24.0,male,bachelor's,data analyst,computing,1.0,5111.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,7950.6,m40
+25.0,female,bachelor's,data analyst,computing,2.0,6246.900000000001,m40
+30.0,female,phd,data scientist,computing,7.0,10506.15,m40
+32.0,male,bachelor's,data analyst,computing,5.0,7666.650000000001,m40
+27.0,female,master's,data scientist,computing,3.0,10222.2,m40
+40.0,male,bachelor's,software engineer,software engineering,12.0,11074.050000000001,t20
+35.0,female,bachelor's,product manager,business,8.0,9370.35,m40
+43.0,male,master's,data scientist,computing,15.0,11244.42,t20
+29.0,female,bachelor's,software engineer,software engineering,4.0,8518.5,m40
+36.0,male,bachelor's,data analyst,computing,9.0,9199.98,m40
+31.0,male,master's,data scientist,computing,6.0,9938.25,m40
+42.0,female,bachelor's,software engineer,software engineering,13.0,11187.630000000001,t20
+33.0,male,bachelor's,data analyst,computing,7.0,8064.18,m40
+29.0,female,master's,data scientist,computing,4.0,10335.78,m40
+41.0,male,bachelor's,software engineer,software engineering,11.0,10506.15,m40
+35.0,female,bachelor's,product manager,business,8.0,9654.3,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,9086.4,m40
+32.0,male,bachelor's,data scientist,computing,8.0,10222.2,m40
+29.0,female,master's,data analyst,computing,6.0,8518.5,m40
+30.0,male,bachelor's,data analyst,computing,5.0,7950.6,m40
+24.0,male,bachelor's,data analyst,computing,2.0,5679.0,m40
+33.0,female,master's,product manager,business,11.0,10790.1,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,9086.4,m40
+26.0,male,bachelor's,data analyst,computing,3.0,6814.8,m40
+30.0,female,phd,data scientist,computing,7.0,9654.3,m40
+31.0,male,bachelor's,data analyst,computing,9.0,10790.1,m40
+28.0,female,bachelor's,software engineer,software engineering,5.0,8518.5,m40
+26.0,female,bachelor's,data analyst,computing,3.0,6814.8,m40
+30.0,male,phd,data scientist,computing,7.0,9654.3,m40
+27.0,female,bachelor's,product manager,business,4.0,7382.7,m40
+24.0,male,bachelor's,data analyst,computing,2.0,5395.05,m40
+33.0,male,master's,product manager,business,11.0,11074.050000000001,t20
+25.0,male,bachelor's,data analyst,computing,2.0,5679.0,m40
+28.0,male,bachelor's,software engineer,software engineering,5.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,6814.8,m40
+29.0,female,master's,data scientist,computing,6.0,8518.5,m40
+32.0,male,bachelor's,data scientist,computing,8.0,10222.2,m40
+33.0,female,master's,product manager,business,11.0,11074.050000000001,t20
+27.0,male,bachelor's,software engineer,software engineering,4.0,9086.4,m40
+31.0,female,master's,data scientist,computing,6.0,9654.3,m40
+30.0,male,bachelor's,data analyst,computing,5.0,7950.6,m40
+24.0,male,bachelor's,data analyst,computing,2.0,5395.05,m40
+28.0,female,bachelor's,software engineer,software engineering,5.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,6814.8,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10222.2,m40
+33.0,female,master's,product manager,business,11.0,11074.050000000001,t20
+25.0,male,bachelor's,data analyst,computing,2.0,5679.0,m40
+30.0,female,phd,data scientist,computing,7.0,9654.3,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,9086.4,m40
+34.0,female,master's,product manager,business,12.0,10790.1,m40
+31.0,male,bachelor's,data analyst,computing,9.0,10790.1,m40
+28.0,female,bachelor's,software engineer,software engineering,5.0,8518.5,m40
+26.0,male,bachelor's,data analyst,computing,3.0,6814.8,m40
+29.0,female,master's,data scientist,computing,6.0,8518.5,m40
+32.0,male,bachelor's,software engineer,software engineering,8.0,10222.2,m40
+33.0,female,master's,product manager,business,11.0,11074.050000000001,t20
+24.0,male,bachelor's,data analyst,computing,2.0,5395.05,m40
+27.0,male,bachelor's,software engineer,software engineering,4.0,9086.4,m40
+25.0,female,bachelor's,data analyst,computing,2.0,5679.0,m40
