@@ -4,6 +4,8 @@ Using Random Forest Regression Model and with interactive EDA
 
 Ori DataSet: https://www.kaggle.com/datasets/bred54/malaysia-salary-data?resource=download
 
+A test link hosted on streamlit cloud: https://uowm-dstoolbox-salary-prediction-gv3evouwcw8bgrppgevfkl.streamlit.app
+
 My Edited Dataset: "cleaned_data.csv"
 
 Streamlit source code: dashboard.py
