@@ -239,7 +239,7 @@ elif option == "📊 Exploratory Data Analysis":
     # Create an interactive heatmap
     fig5 = px.density_heatmap(avg_salary, x='Education Level', y='Industry', z='Salary',
                              title='Average Salary Heatmap by Education Level and Industry',
-                             labels={'Education Level': 'Education Level', 'Industry': 'Industry', 'Salary': 'Average Salary ($)'})
+                             labels={'Education Level': 'Education Level', 'Industry': 'Industry', 'Salary': 'Average Salary ($)'}, color_continuous_scale='Blues')
 
 
     # Update layout for better visualization
