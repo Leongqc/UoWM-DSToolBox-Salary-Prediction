@@ -6,7 +6,7 @@ Ori DataSet: https://www.kaggle.com/datasets/bred54/malaysia-salary-data?resourc
 
 Support document of testing and do preprocessing: Assg 1.ipynb
 
-A test link hosted on streamlit cloud: https://uowm-dstoolbox-salary-prediction-gv3evouwcw8bgrppgevfkl.streamlit.app
+A test link hosted on streamlit cloud: https://uowm-dstoolbox-salary-prediction-dzbeuc8ejuaehqbsebu2au.streamlit.app/
 
 My Edited Dataset: "cleaned_data.csv"
 
