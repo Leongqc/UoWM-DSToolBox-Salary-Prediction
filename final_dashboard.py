@@ -317,8 +317,8 @@ elif option == "🔮 Prediction":
     # Evaluate the model
     mse = mean_squared_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
-    st.write(f"Mean Squared Error (MSE): {mse:.2f}")
-    st.write(f"R-squared (R²): {r2:.2f}")
+    #st.write(f"Mean Squared Error (MSE): {mse:.2f}")
+    #st.write(f"R-squared (R²): {r2:.2f}")
 
     st.header("Make a Prediction")
    # Select industry
